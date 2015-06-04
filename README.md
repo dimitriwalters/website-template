@@ -1,3 +1,3 @@
-# html5-template
+# html-template
 
 A starter template to create an HTML5 website.
